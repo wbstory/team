@@ -5,7 +5,7 @@ int main(int argc, char **argv) {
   if(a != 0) {
     printf("This is not possible!\n");
   } else {
-    printf("Ok. this is normal.\n");
+    printf("Ok. this is perfectly normal.\n");
   }
 
   printf("Hello World!\n");
